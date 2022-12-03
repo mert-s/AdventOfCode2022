@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-var sumCalsList = System.IO.File.ReadAllText(@"1/myInput.txt")
+var sumCalsList = System.IO.File.ReadAllText(@"myInput.txt")
     .Split("\n\n")
     .Select(x => x.Split("\n").Where(x => x != "").Sum(int.Parse)).ToList();
 sumCalsList.Sort();

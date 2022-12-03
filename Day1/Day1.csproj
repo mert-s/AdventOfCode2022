@@ -8,9 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="2\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="2\" />
+    <None Update="myInput.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 </Project>
