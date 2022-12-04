@@ -1,3 +1,4 @@
+/Users/mertsahan/Projects/AdventOfCode2022/Day2/bin/Debug/net7.0/myInput.txt
 /Users/mertsahan/Projects/AdventOfCode2022/Day2/bin/Debug/net7.0/Day2
 /Users/mertsahan/Projects/AdventOfCode2022/Day2/bin/Debug/net7.0/Day2.deps.json
 /Users/mertsahan/Projects/AdventOfCode2022/Day2/bin/Debug/net7.0/Day2.runtimeconfig.json
@@ -13,4 +14,3 @@
 /Users/mertsahan/Projects/AdventOfCode2022/Day2/obj/Debug/net7.0/Day2.pdb
 /Users/mertsahan/Projects/AdventOfCode2022/Day2/obj/Debug/net7.0/Day2.genruntimeconfig.cache
 /Users/mertsahan/Projects/AdventOfCode2022/Day2/obj/Debug/net7.0/ref/Day2.dll
-/Users/mertsahan/Projects/AdventOfCode2022/Day2/bin/Debug/net7.0/myInput.txt
